@@ -1,0 +1,16 @@
+{
+  "name": "dotenv_commonjs",
+  "version": "1.0.0",
+  "description": "This is a little project, showing how to use dotenv with ES6 CommomJs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Antonio Gomes",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
